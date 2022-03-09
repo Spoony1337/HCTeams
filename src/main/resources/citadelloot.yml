@@ -1,0 +1,278 @@
+loot:
+  11b505f4-2529-4091-b815-5dc186b2bbd8:
+    Material: SULPHUR
+    Data: 0
+    Amount: 64
+  9f4e87ae-76c3-4d12-81de-3de352892571:
+    Material: SPECKLED_MELON
+    Data: 0
+    Amount: 64
+  31b73de6-66fd-445d-95b0-c11ac3a2b9d1:
+    Material: NETHER_STALK
+    Data: 0
+    Amount: 64
+  c4fdfaae-83da-4bf4-a233-cd9abe99140e:
+    Material: SUGAR
+    Data: 0
+    Amount: 64
+  12eb80ce-2928-4107-9e48-d802b704a9b7:
+    Material: GLOWSTONE_DUST
+    Data: 0
+    Amount: 64
+  07163432-a151-4d59-9a5e-910947167769:
+    Material: EYE_OF_ENDER
+    Lore:
+      - ''
+      - Â§7Upon right clicking this item your location will be saved and you have
+      - Â§78 seconds after right clicking it to right click again to be teleported
+      - Â§7to the location that you right clicked the first time.
+      - ''
+    Name: Â§aÂ§lPortal
+    Data: 0
+    Amount: 3
+    Enchants:
+      dc8f4cde-6a29-4e09-8047-3c39bb46e0d6:
+        Type: DURABILITY
+        Level: 10
+  f91e9851-6e1c-49e9-8325-5bf4d748faee:
+    Material: GOLDEN_APPLE
+    Data: 0
+    Amount: 64
+  e49d572f-64d3-4d14-afc5-e1a16531547b:
+    Material: BOW
+    Lore:
+      - Â§7Shoot someone with this bow and
+      - Â§7teleport to them after 3 seconds.
+    Name: Â§cTP Bow
+    Data: 0
+    Amount: 1
+    Enchants:
+      a620349c-3934-4063-99f9-4053d6c440a9:
+        Type: DURABILITY
+        Level: 10
+      8d74f3e7-04dd-4db0-9fed-300892e9a095:
+        Type: ARROW_INFINITE
+        Level: 1
+  2c502912-9c91-48d7-87df-cd55553e844c:
+    Material: INK_SACK
+    Lore:
+      - Â§7Right click this item to become fully
+      - Â§7invisible while wearing armor.
+    Name: Â§5Â§lFull Invis
+    Data: 0
+    Amount: 2
+    Enchants:
+      67711ad2-70ca-4a86-9b08-faae5891ecd0:
+        Type: DURABILITY
+        Level: 10
+  a9fbd662-4620-466c-b7d0-628d42dccfa1:
+    Material: DIAMOND_HELMET
+    Name: Â§5Â§lCitadel Helmet
+    Data: 0
+    Amount: 1
+    Enchants:
+      baef70d4-20c6-4f8a-8fb3-d4a6214dc391:
+        Type: PROTECTION_ENVIRONMENTAL
+        Level: 3
+  9c1e3ca9-5497-42d9-b5f0-5e8b01ecda35:
+    Material: DIAMOND_LEGGINGS
+    Name: Â§5Â§lCitadel Leggings
+    Data: 0
+    Amount: 1
+    Enchants:
+      d454703a-e59a-4eb3-acc2-c2edda3a18dc:
+        Type: PROTECTION_ENVIRONMENTAL
+        Level: 3
+  907d3956-cae9-4059-888d-42b6f294df6a:
+    Material: DIAMOND_SWORD
+    Name: Â§5Â§lCitadel Sword
+    Data: 0
+    Amount: 1
+    Enchants:
+      f6190928-b03a-47e6-b9bb-5f95f0a1694a:
+        Type: DAMAGE_ALL
+        Level: 3
+  7b737358-968e-448c-aa5c-5c5fd11c0bff:
+    Material: EMERALD_BLOCK
+    Data: 0
+    Amount: 64
+  f68c13a9-8c1d-4048-8c40-e9b8987c9a3e:
+    Material: REDSTONE_BLOCK
+    Data: 0
+    Amount: 64
+  23c3d2c9-a19e-4735-83ab-66310ec38cd5:
+    Material: DIAMOND_BLOCK
+    Data: 0
+    Amount: 64
+  9eb3df41-5390-4a33-9c9b-5a11369c1ade:
+    Material: FEATHER
+    Lore:
+      - Â§7Right click this to reset your
+      - Â§7enderpearl cooldown.
+    Name: Â§9Â§lLastChance
+    Data: 0
+    Amount: 3
+    Enchants:
+      2212c791-f776-4b7f-b43d-0da7a4ba4523:
+        Type: DURABILITY
+        Level: 10
+  1be89213-e2f0-48d6-a6b8-0789f99e5431:
+    Material: STICK
+    Lore:
+      - Â§7Hit someone 3 times in a row to disable them from
+      - Â§7building/placing and interacting with blocks for 15 seconds.
+    Name: Â§dÂ§lAntiBuildStick
+    Data: 0
+    Amount: 2
+    Enchants:
+      01e22107-8fe8-497b-98b6-1549706ce2e3:
+        Type: DURABILITY
+        Level: 10
+  fb7e912a-3f7f-4dc5-ba67-7db37bf0e073:
+    Material: INK_SACK
+    Lore:
+      - Â§7Right click this to open the
+      - Â§7the pocketbard selection.
+    Name: Â§bÂ§lPocket Bard
+    Data: 14
+    Amount: 2
+    Enchants:
+      5e492d99-4f36-42cf-8c8a-e71386124b83:
+        Type: DURABILITY
+        Level: 10
+  84b14c31-754a-4395-9062-96ff42d9c138:
+    Material: DIAMOND_CHESTPLATE
+    Name: Â§5Â§lCitadel Chestplate
+    Data: 0
+    Amount: 1
+    Enchants:
+      f8c4c828-1c49-4c88-a961-396287c85703:
+        Type: PROTECTION_ENVIRONMENTAL
+        Level: 3
+  8c598fce-4db2-4ee9-a938-470ca4560f4e:
+    Material: DIAMOND_BOOTS
+    Name: Â§5Â§lCitadel Boots
+    Data: 0
+    Amount: 1
+    Enchants:
+      a687aec3-8fb7-434c-b3fc-5daee87a9c34:
+        Type: PROTECTION_ENVIRONMENTAL
+        Level: 3
+      c3381ed8-54f4-43a5-b6e0-98a9e0e47ec0:
+        Type: PROTECTION_FALL
+        Level: 4
+  988be1eb-9ee2-44b0-ad04-32b1cdc7700d:
+    Material: BOW
+    Name: Â§5Â§lCitadel Bow
+    Data: 0
+    Amount: 1
+    Enchants:
+      0369dc37-b16a-42b1-bba0-928eb53fa002:
+        Type: ARROW_DAMAGE
+        Level: 7
+      098eebd7-7b7e-4923-8ee1-37652ee4b573:
+        Type: ARROW_INFINITE
+        Level: 1
+  a0bf230e-8c5c-410d-9196-0bf600b46360:
+    Material: IRON_BLOCK
+    Data: 0
+    Amount: 64
+  fa81acbb-6948-461f-a325-2f521bea488a:
+    Material: GOLD_BLOCK
+    Data: 0
+    Amount: 64
+  9a98a401-8cf9-447a-89ee-99901f38dc93:
+    Material: LAPIS_BLOCK
+    Data: 0
+    Amount: 64
+  d76d98d4-65fa-4c99-9c48-fbc66deccc38:
+    Material: FEATHER
+    Lore:
+      - Â§7Right Click this to be teleported
+      - Â§7to your last pearl location.
+    Name: Â§6Time Warp
+    Data: 0
+    Amount: 2
+    Enchants:
+      ea86daa2-3f25-4234-bf77-fcf8e1dd2cf3:
+        Type: DURABILITY
+        Level: 10
+  a60ff0a1-9e56-4fc9-99cb-270e9ad34596:
+    Material: EGG
+    Lore:
+      - Â§7Throw this item to spawn a 3x3 wall where it lands
+    Name: Â§2Â§lSageWall
+    Data: 0
+    Amount: 2
+    Enchants:
+      529e4e6d-8634-4ad1-8cce-8bc4411c2379:
+        Type: DURABILITY
+        Level: 10
+  f5a5ef61-f04a-4303-9535-27dc9b5621c6:
+    Material: SNOW_BALL
+    Lore:
+      - Â§7Throw this item at a player to switch
+      - Â§7positions with them.
+    Name: Â§aÂ§lSwitcher
+    Data: 0
+    Amount: 6
+    Enchants:
+      6fe1cb1f-6285-468c-a8f5-92a069b4debb:
+        Type: DURABILITY
+        Level: 10
+  d6749419-d60f-474f-a137-38f51c533f75:
+    Material: GOLDEN_APPLE
+    Data: 1
+    Amount: 2
+  da207222-11d0-443f-bd49-7a9a716895b7:
+    Material: EGG
+    Lore:
+      - ''
+      - Â§7Shoot this near players for whoever in a 10x10 radius of
+      - Â§7the egg it blinds and slows them for 10 seconds.
+      - ''
+    Name: Â§6Â§lFlashBang
+    Data: 0
+    Amount: 3
+    Enchants:
+      2adf8213-3325-4c84-88bc-858de865c13a:
+        Type: DURABILITY
+        Level: 10
+  e8425304-699e-4e35-a27a-694ef9bfba39:
+    Material: WATCH
+    Lore:
+      - Â§7Right-Click this item heal yourself
+      - Â§7if you ever go below 2 hearts.
+    Name: Â§5Â§lGuardian Angel
+    Data: 0
+    Amount: 2
+    Enchants:
+      58d3ac41-367a-4e17-a66c-163aa4e6d17a:
+        Type: DURABILITY
+        Level: 10
+  32e043c9-c2a9-4cb0-af48-5a7af77e919d:
+    Material: BOW
+    Lore:
+      - Â§7Shoot someone with this bow and
+      - Â§7they will receive poison for 5 seconds.
+    Name: Â§aPoison Bow
+    Data: 0
+    Amount: 1
+    Enchants:
+      42eba24f-009d-443e-81a1-a3d6b03fcbef:
+        Type: DURABILITY
+        Level: 10
+      00e4e60d-a2c8-4f23-92b8-5e936d3a305f:
+        Type: ARROW_INFINITE
+        Level: 1
+  c7a14395-23fd-4670-9cf6-7d3ebd71cbfc:
+    Material: RAW_FISH
+    Lore:
+      - Â§7Hit a player with this to put them into combo mode
+    Name: Â§dÂ§lCombo Ability
+    Data: 0
+    Amount: 3
+    Enchants:
+      9e134be6-7120-45dc-8b78-cb82e15c6882:
+        Type: DURABILITY
+        Level: 10
