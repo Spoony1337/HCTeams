@@ -1,0 +1,167 @@
+Mongo:
+    Host: '127.0.0.1'
+    DBName: 'Teams'
+    AuthDB: ''
+    Username: ''
+    Password: ''
+
+networkName: '&6&lOrbit'
+serverName: Galaxy
+networkWebsite: orbit.rip
+statsRoot: orbit.rip/stats
+store: 'store.orbit.rip'
+discord: 'discord.orbit.rip'
+teamspeak: 'ts.orbit.rip'
+kothReward: 'cr givekey %player% KOTH 3'
+CitadelReward: 'cr givekey %player% Citadel 1'
+killReward: 'cr givekey %player% Kill 1'
+
+BLOCKED_POTIONS: #put the data value
+  - 8201
+  - 8233
+  - 16393
+  - 8265
+  - 16425
+  - 16457
+  - 16420
+  - 8228
+  - 8193
+  - 8225
+  - 8257
+  - 16385
+  - 16417
+  - 16449
+  - 16452
+  - 8260
+  - 8232
+  - 8264
+  - 16424
+  - 16456
+  - 8266
+  - 16458
+  - 16392
+  - 8268
+  - 8236
+  - 16460
+  - 16428
+
+kills-top-hologram:
+  x: 0.5
+  y: 100
+  z: 0.5
+  world: "world"
+team-top-hologram:
+  x: 1.5
+  y: 100
+  z: 1.5
+  world: "world"
+
+
+ENCHANTMENT_LIMITER:
+  DAMAGE_ALL: 1
+  PROTECTION_ENVIRONMENTAL: 1
+  ARROW_DAMAGE: 3
+  ARROW_KNOCKBACK: 0
+  FIRE_ASPECT: 0
+  KNOCKBACK: 0
+  THORNS: 0
+
+event:
+  mainColor: '&6'
+  otherColor: '&7'
+
+tab:
+  serverName: '&6&lOrbit'
+  sectionColor: '&6'
+  infoColor: '&f'
+  normal: true
+
+scoreboard:
+  tittle: '&6&lOrbit&7 &f┃ &fGalaxy'
+  mainColor: '&6'
+  otherColor: '&f'
+  sectionColor: '&7'
+  timeColor: '&c'
+  footer: '&f&oorbit.rip'
+  footerboolean: true
+  Location: true
+
+nightmare:
+  enabled: true
+  worldName: 'NightmareEvent'
+
+FFA-COMMAND: true
+glowstoneMountain: false
+cavern: false
+startingTimer: true
+forceInvites: false
+squads: false
+tiers: false
+idleCheck: true
+uhcHealing: false
+passiveTag: true
+allowBoosting: false
+waterPlacementInClaims: false
+blockRemoval: false
+rodPrevention: false
+skybridgePrevention: false
+reduceArmorDamage: true
+powers: false
+blockEntitiesThroughPortals: true
+archerTagColor: YELLOW
+defaultRelationColor: RED
+
+enchants:
+  protection: 2
+  power: 2
+  sharpness: 1
+
+pvpClasses:
+  archer: true
+  bard: true
+  rogue: true
+
+potions:
+  REGEN:
+    splash: false
+    drinkables: false
+  SPEED:
+    splash: true
+    drinkables: true
+  FIRE_RESISTANCE:
+    splash: true
+    drinkables: true
+  POISON:
+    splash: true
+    drinkables: false
+  INSTANT_HEAL:
+    splash: true
+    drinkables: true
+  NIGHT_VISION:
+    splash: true
+    drinkables: true
+  WEAKNESS:
+    splash: false
+    drinkables: false
+  STRENGTH:
+    splash: false
+    drinkables: false
+  SLOWNESS:
+    splash: true
+    drinkables: false
+  INSTANT_DAMAGE:
+    splash: false
+    drinkables: false
+  WATER_BREATHING:
+    splash: true
+    drinkables: true
+  INVISIBILITY:
+    splash: false
+    drinkables: false
+
+Locations:
+  end_exit: '[world,0.27902131614555686,70.4398395677623,200.21974651220623,183.30182,13.515124]'
+World-Spawn:
+  end-spawn: '[world_the_end,0.0,70.36424342434589,0.0,-5.End035,-0.50012857]'
+
+Glowstone-Reset-Time: 600 #In seconds. Default: 10m (600 seconds)
