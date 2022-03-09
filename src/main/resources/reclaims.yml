@@ -1,0 +1,9 @@
+groups:
+  Owner: # if it doesn't work, try putting the rank prefix
+    commands:
+      - "give %player% DiamondBlock 2"
+      - "cr givekey %player% OP 2"
+  Admin:
+    commands:
+      - "give %player% DiamondBlock 1"
+      - "cr givekey %player% OP 1"

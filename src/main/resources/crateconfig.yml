@@ -1,0 +1,28 @@
+gui-title: "Crate Menu"
+gui-size: 9
+crates:
+  example:
+    slot: 5
+    skull:
+      use-skull: false
+      owner: "example"
+
+    item: "PAPER" # if you have use-skull: true, then you want to make this SKULL_ITEM
+    data: 0
+    name: "&6&lExample"
+    lore:
+      - '&7Example Lore'
+      - ' '
+      - '&7Right Click to view the loot'
+      - '&7Left Click to open the crate'
+
+key:
+  item: "TRIPWIRE_HOOK"
+  data: 0
+  name: "&6&lPartner Key"
+  lore:
+    - '&7Hold this in your hand whilst clicking a partner crate in the menu to be able to open it.'
+
+
+
+not-holding-message: "&cYou must be holding a partner crate key in your hand to open this crate."
