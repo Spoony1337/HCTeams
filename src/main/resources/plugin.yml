@@ -1,6 +1,6 @@
 name: Neptune
 version: beta-0.1
-author: [Spoony, LBuddyBoy]
+author: [Spoony, LBuddyBoy, HCTeams]
 main: rip.orbit.hcteams.HCF
 softdepend: [ CheatBreakerAPI ]
 depend: [ qLib, ProtocolLib ]
