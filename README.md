@@ -1,14 +1,14 @@
-# OrbitHCF
-A Good HCTeam's Fork.
+# HCTeams
+A Good HCTeam's Fork Used on Orbit.RIP.
 
 ## Information
-This is a pretty good HCTeam's fork, I modified and got from Orbit.
+This is a pretty good HCTeam's fork, I modified and made for Orbit.
 
 ## Reminder
 Doesn't mean it has bad code because it's abondened
 
 ## Authors
- * Spoony (Bug Finding and Fixing Bugs on This.)
+ * Spoony (Bug Finding and Fixing Bugs on This and adding features.)
  * NoSequel (Creating the Original HCTeams Orbit has forked)
  * LBuddyBoy (Modifing most of this, but a dumbass for the db leak)
 
