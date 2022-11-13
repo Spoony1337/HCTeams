@@ -38,12 +38,12 @@
 			<url>http://maven.sk89q.com/repo/</url>
 		</repository>
 		<repository>
-			<id>everything</id>
-			<url>http://repo.citizensnpcs.co/</url>
+            		<id>citizens-repo</id>
+            		<url>https://maven.citizensnpcs.co/repo</url>
 		</repository>
 		<repository>
-			<id>fawe-repo</id>
-			<url>http://ci.athion.net/job/FastAsyncWorldEdit/ws/mvn/</url>
+			<id>enginehub-maven</id>
+			<url>https://maven.enginehub.org/repo/</url>
 		</repository>
 		<repository>
 			<id>dmulloy2-repo</id>
@@ -63,9 +63,8 @@
 
 		<dependency>
 			<groupId>net.citizensnpcs</groupId>
-			<artifactId>citizens</artifactId>
-			<version>2.0.20-SNAPSHOT</version>
-			<scope>provided</scope>
+			<artifactId>citizensapi</artifactId>
+			<version>2.0.29-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>rip.orbit</groupId>
@@ -98,11 +97,9 @@
 		</dependency>
 
 		<dependency>
-			<groupId>gg.lunar</groupId>
-			<artifactId>LAPI</artifactId>
-			<version>1.0</version>
-			<scope>system</scope>
-			<systemPath>${project.basedir}/libs/LAPI.jar</systemPath>
+	    		<groupId>com.github.LunarClient</groupId>
+	    		<artifactId>BukkitAPI</artifactId>
+	    		<version>v1.0.1</version>
 		</dependency>
 
 		<!-- Misc. Jars -->
